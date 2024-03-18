@@ -32,7 +32,6 @@ def circulate():
 ```
 
 ## Output:
-![image](https://github.com/pavithraselvaraj30/Circulate-the-values-of-N-variables/assets/149366880/3d977987-cd0c-4c3a-b3f4-6c6392f045c8)
-
-
+![image](https://github.com/pavithraselvaraj30/Circulate-the-values-of-N-variables/assets/149366880/1e6b98a7-4b01-4a4b-97e0-a71d299af601)
 ## Result:
+Thus the circulation of n variables successfully executed.
